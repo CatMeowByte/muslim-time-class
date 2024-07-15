@@ -1,5 +1,10 @@
 # Godot 4+ specific ignores
 .godot/
-icon.svg
-icon.svg.import
-main.tscn
+
+# Ignore everything
+*
+
+# Except
+!*.gd
+!*.md
+
